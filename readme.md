@@ -40,4 +40,4 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 spring.jpa.hibernate.ddl-auto=create-drop
 ```
 
->> note: We strongly recomend to use *create-drop* as *ddl-auto* on this stage, after the application is running you can use the *update* to persist tables information.
+> note: We strongly recomend to use *create-drop* as *ddl-auto* on this stage, after the application is running you can use the *update* to persist tables information.
